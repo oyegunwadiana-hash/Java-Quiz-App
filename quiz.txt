@@ -1,0 +1,54 @@
+Arrays|What is an array in Java?|A. A collection of different data types|B. A collection of elements of the same type|C. A loop structure|D. A conditional statement|B
+Arrays|What is the index of the first element in an array?|A. 1|B. -1|C. 0|D. 10|C
+Arrays|Which symbol is used to declare an array in Java?|A. ()|B. {}|C. []|D. <>|C
+Arrays|Which of the following correctly declares an integer array?|A. int arr[];|B. array int arr;|C. arr int[];|D. int (arr);|A
+Arrays|What will be the length of the following array? int arr[] = new int[5];|A. 4|B. 5|C. 6|D. 10|B
+Arrays|Which method/property is used to get the length of an array?|A. length()|B. size()|C. length|D. getLength()|C
+Arrays|Which loop is commonly used to access array elements?|A. while loop|B. for loop|C. do-while loop|D. All of the above|D
+Arrays|What happens if you access an index outside the array size?|A. Program stops|B. ArrayIndexOutOfBoundsException occurs|C. Compiler error|D. Nothing happens|B
+Arrays|Which keyword is used to create an array object?|A. create|B. new|C. make|D. array|B
+Arrays|Arrays in Java are stored in:|A. Stack memory|B. Heap memory|C. CPU register|D. Disk memory|B
+
+Loops|What is the purpose of loops in programming?|A. To store data|B. To repeat a set of instructions|C. To declare variables|D. To define classes|B
+Loops|Which loop checks the condition before executing the body?|A. do-while loop|B. for loop|C. while loop|D. Both B and C|D
+Loops|Which loop executes at least once even if the condition is false?|A. while loop|B. do-while loop|C. for loop|D. switch statement|B
+Loops|Which keyword is used to exit a loop?|A. stop|B. break|C. end|D. continue|B
+Loops|Which keyword skips the current iteration and moves to the next one?|A. break|B. skip|C. continue|D. pass|C
+Loops|Which loop is commonly used when the number of iterations is known?|A. while loop|B. do-while loop|C. for loop|D. switch loop|C
+Loops|Which of the following is a valid loop structure in Java?|A. for|B. while|C. do-while|D. All of the above|D
+Loops|An infinite loop occurs when:|A. Condition never becomes false|B. Condition becomes false|C. Loop runs once|D. Program ends|A
+Loops|Which loop is best for menu-driven programs?|A. if loop|B. while loop|C. switch loop|D. class loop|B
+Loops|Which statement is used to repeat a block of code?|A. condition|B. loop|C. variable|D. object|B
+
+Conditional Statements|Conditional statements are used to:|A. Store data|B. Make decisions in a program|C. Repeat instructions|D. Declare variables|B
+Conditional Statements|Which keyword is used for decision making?|A. loop|B. if|C. class|D. new|B
+Conditional Statements|Which statement provides multiple conditions?|A. if statement|B. if-else statement|C. else-if ladder|D. loop statement|C
+Conditional Statements|Which statement is used to select one option from many choices?|A. if|B. switch|C. loop|D. array|B
+Conditional Statements|What symbol is used for equality comparison?|A. =|B. ==|C. !=|D. <>|B
+Conditional Statements|Which operator represents "not equal to"?|A. ==|B. !=|C. >=|D. <=|B
+Conditional Statements|Which logical operator means "AND"?|A. &&|B. |||C. !|D. ==|A
+Conditional Statements|Which logical operator means "OR"?|A. &&|B. |||C. !|D. ==|B
+Conditional Statements|Which block executes when the condition in an if statement is false?|A. if block|B. else block|C. loop block|D. array block|B
+Conditional Statements|Which statement structure is correct?|A. if(condition){ }|B. if condition|C. if{}|D. condition if|A
+
+Functions/Methods|What is a function (method) in Java?|A. A variable|B. A block of code that performs a specific task|C. A loop structure|D. An array element|B
+Functions/Methods|Which keyword is used to define a method in Java?|A. function|B. method|C. void or return type|D. define|C
+Functions/Methods|Which of the following is a correct method declaration?|A. void display()|B. display void()|C. method display()|D. function display()|A
+Functions/Methods|Which keyword is used to return a value from a method?|A. break|B. continue|C. return|D. exit|C
+Functions/Methods|What is the purpose of methods in programming?|A. To repeat code|B. To store data|C. To organize code into reusable blocks|D. To declare arrays|C
+Functions/Methods|What is the name of the method that starts execution of a Java program?|A. run()|B. start()|C. main()|D. begin()|C
+Functions/Methods|Which of the following is the correct main method signature?|A. public static void main(String args[])|B. main()|C. void main|D. public main()|A
+Functions/Methods|What are parameters in a method?|A. Variables passed to a method|B. Loop conditions|C. Array elements|D. Output values|A
+Functions/Methods|A method that does not return any value uses which keyword?|A. null|B. void|C. empty|D. static|B
+Functions/Methods|What is the process of calling a method called?|A. Method declaration|B. Method execution|C. Method invocation|D. Method storage|C
+
+Object-Oriented Programming Basics|What does OOP stand for?|A. Object-Oriented Programming|B. Object Operating Program|C. Operational Object Programming|D. Organized Object Program|A
+Object-Oriented Programming Basics|Which concept allows objects to have properties and behavior?|A. Looping|B. Encapsulation|C. Compilation|D. Iteration|B
+Object-Oriented Programming Basics|What is a class in Java?|A. A variable|B. A blueprint for creating objects|C. A loop structure|D. A conditional statement|B
+Object-Oriented Programming Basics|An object is:|A. A function|B. An instance of a class|C. A loop|D. A compiler|B
+Object-Oriented Programming Basics|Which keyword is used to create an object in Java?|A. create|B. object|C. new|D. make|C
+Object-Oriented Programming Basics|Which of the following is an example of encapsulation?|A. Storing data and methods in one class|B. Repeating a loop|C. Writing conditional statements|D. Declaring arrays|A
+Object-Oriented Programming Basics|Inheritance allows a class to:|A. Repeat code|B. Use properties and methods of another class|C. Store arrays|D. Perform loops|B
+Object-Oriented Programming Basics|Which keyword is used for inheritance in Java?|A. inherit|B. extend|C. extends|D. implement|C
+Object-Oriented Programming Basics|Polymorphism means:|A. Many variables|B. Many forms of a method or object|C. Many loops|D. Many classes|B
+Object-Oriented Programming Basics|Which concept hides internal implementation details?|A. Encapsulation|B. Looping|C. Iteration|D. Compilation|A
